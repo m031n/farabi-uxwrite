@@ -1,9 +1,21 @@
 ---
 name: farabi-writer
-description: Create user-centered, accessible interface copy (microcopy) for digital products including buttons, labels, error messages, notifications, forms, onboarding, empty states, success messages, and help text. Use when writing or editing any text that appears in apps, websites, or software interfaces, designing conversational flows, establishing voice and tone guidelines, auditing product content for consistency and usability, reviewing UI strings, or improving existing interface copy. Applies UX writing best practices based on four quality standards — purposeful, concise, conversational, and clear. Includes accessibility guidelines, research-backed benchmarks (sentence length, comprehension rates, reading levels), expanded error patterns, tone adaptation frameworks, and comprehensive reference materials.
+description: Create user-centered, accessible Persian interface copy (microcopy) for digital products including buttons, labels, error messages, notifications, forms, onboarding, empty states, success messages, and help text. Use when writing or editing Persian text that appears in apps, websites, or software interfaces, designing conversational flows, establishing voice and tone guidelines, auditing product content for consistency and usability, reviewing UI strings, or improving existing interface copy. Composes with ../persian-writing for register, naturalness, orthography, humanization, and RTL mechanics, then adds product UX-writing guidance.
 ---
 
 # UX Writing
+
+## Foundation: general Persian writing
+
+For every Persian task, first read and follow [../persian-writing/SKILL.md](../persian-writing/SKILL.md).
+Route to its references when the output needs detailed guidance on register,
+orthography, cleanup, or a specific document format. This skill is the product
+layer on top of that foundation: it decides what the interface needs to say,
+who needs it, and what action or decision the copy should support.
+
+When the product has an approved term, name, identifier, or exact value, keep it
+unchanged. Otherwise, use the general skill's Persian characters, punctuation,
+digits, نیم‌فاصله, register, and humanization rules.
 
 هر کلمه در محصول باید به کاربر کمک کند:
 - بفهمد چه اتفاقی در حال رخ دادن است
